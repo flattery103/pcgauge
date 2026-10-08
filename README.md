@@ -2,6 +2,8 @@
 
 A lightweight Linux terminal dashboard with analog-style gauges for CPU, memory, storage, and network bandwidth. Add live history graphs with `--trend`. Uses only Python 3's standard library.
 
+<img width="3322" height="996" alt="image" src="https://github.com/user-attachments/assets/607e4f17-55de-4829-bae0-9ccb3c4bf3f1" />
+
 ## Run
 
 ```bash
